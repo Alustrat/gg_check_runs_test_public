@@ -1,1 +1,3 @@
 # gg_check_runs_test_public
+
+SLACK_KEY=xoxb-273594206964-FGqddMF8t18v20220920vs01
